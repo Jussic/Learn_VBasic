@@ -11,3 +11,4 @@ End Class
 
 ' Comments.
 ' The picture is not being recieved because the path is problematic. Talk to Prof. Berque? 
+' Move the images to another path? 
