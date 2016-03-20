@@ -1,0 +1,10 @@
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\bin\Debug\MyForLoopIcons.exe.config
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\obj\Debug\MyForLoopIcons.Form1.resources
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\obj\Debug\MyForLoopIcons.Resources.resources
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\obj\Debug\MyForLoopIcons.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\bin\Debug\MyForLoopIcons.exe
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\bin\Debug\MyForLoopIcons.pdb
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\bin\Debug\MyForLoopIcons.xml
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\obj\Debug\MyForLoopIcons.exe
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\obj\Debug\MyForLoopIcons.xml
+P:\VBasic Project\MyForLoopIcons\MyForLoopIcons\obj\Debug\MyForLoopIcons.pdb

@@ -1,0 +1,10 @@
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.exe.config
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.exe
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.pdb
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.xml
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.Form1.resources
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.Resources.resources
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.exe
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.xml
+P:\VBasic Project\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.pdb

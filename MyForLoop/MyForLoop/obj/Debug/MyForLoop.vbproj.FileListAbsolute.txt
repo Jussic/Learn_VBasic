@@ -1,0 +1,10 @@
+P:\VBasic Project\MyForLoop\MyForLoop\bin\Debug\MyForLoop.exe.config
+P:\VBasic Project\MyForLoop\MyForLoop\obj\Debug\MyForLoop.Form1.resources
+P:\VBasic Project\MyForLoop\MyForLoop\obj\Debug\MyForLoop.Resources.resources
+P:\VBasic Project\MyForLoop\MyForLoop\obj\Debug\MyForLoop.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyForLoop\MyForLoop\bin\Debug\MyForLoop.exe
+P:\VBasic Project\MyForLoop\MyForLoop\bin\Debug\MyForLoop.pdb
+P:\VBasic Project\MyForLoop\MyForLoop\bin\Debug\MyForLoop.xml
+P:\VBasic Project\MyForLoop\MyForLoop\obj\Debug\MyForLoop.exe
+P:\VBasic Project\MyForLoop\MyForLoop\obj\Debug\MyForLoop.xml
+P:\VBasic Project\MyForLoop\MyForLoop\obj\Debug\MyForLoop.pdb
