@@ -1,0 +1,10 @@
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\bin\Debug\MyCelciusConverison.exe.config
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\obj\Debug\MyCelciusConverison.Form1.resources
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\obj\Debug\MyCelciusConverison.Resources.resources
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\obj\Debug\MyCelciusConverison.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\bin\Debug\MyCelciusConverison.exe
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\bin\Debug\MyCelciusConverison.pdb
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\bin\Debug\MyCelciusConverison.xml
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\obj\Debug\MyCelciusConverison.exe
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\obj\Debug\MyCelciusConverison.xml
+P:\VBasic Project\MyCelciusConverison\MyCelciusConverison\obj\Debug\MyCelciusConverison.pdb

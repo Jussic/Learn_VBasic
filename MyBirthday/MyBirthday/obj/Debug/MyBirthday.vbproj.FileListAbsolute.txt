@@ -1,0 +1,20 @@
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\bin\Debug\MyBirthday.exe.config
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\obj\Debug\MyBirthday.Form1.resources
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\obj\Debug\MyBirthday.Resources.resources
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\obj\Debug\MyBirthday.vbproj.GenerateResource.Cache
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\bin\Debug\MyBirthday.exe
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\bin\Debug\MyBirthday.pdb
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\bin\Debug\MyBirthday.xml
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\obj\Debug\MyBirthday.exe
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\obj\Debug\MyBirthday.xml
+c:\users\depauw\documents\visual studio 2013\Projects\MyBirthday\MyBirthday\obj\Debug\MyBirthday.pdb
+P:\VBasic Project\MyBirthday\MyBirthday\bin\Debug\MyBirthday.exe.config
+P:\VBasic Project\MyBirthday\MyBirthday\obj\Debug\MyBirthday.exe
+P:\VBasic Project\MyBirthday\MyBirthday\obj\Debug\MyBirthday.xml
+P:\VBasic Project\MyBirthday\MyBirthday\obj\Debug\MyBirthday.pdb
+P:\VBasic Project\MyBirthday\MyBirthday\bin\Debug\MyBirthday.exe
+P:\VBasic Project\MyBirthday\MyBirthday\bin\Debug\MyBirthday.pdb
+P:\VBasic Project\MyBirthday\MyBirthday\bin\Debug\MyBirthday.xml
+P:\VBasic Project\MyBirthday\MyBirthday\obj\Debug\MyBirthday.Form1.resources
+P:\VBasic Project\MyBirthday\MyBirthday\obj\Debug\MyBirthday.Resources.resources
+P:\VBasic Project\MyBirthday\MyBirthday\obj\Debug\MyBirthday.vbproj.GenerateResource.Cache

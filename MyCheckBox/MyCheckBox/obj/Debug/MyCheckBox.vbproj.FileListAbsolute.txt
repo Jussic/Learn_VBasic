@@ -1,0 +1,10 @@
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\bin\Debug\MyCheckBox.exe.config
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\obj\Debug\MyCheckBox.Form1.resources
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\obj\Debug\MyCheckBox.Resources.resources
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\obj\Debug\MyCheckBox.vbproj.GenerateResource.Cache
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\bin\Debug\MyCheckBox.exe
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\bin\Debug\MyCheckBox.pdb
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\bin\Debug\MyCheckBox.xml
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\obj\Debug\MyCheckBox.exe
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\obj\Debug\MyCheckBox.xml
+c:\users\depauw\documents\visual studio 2013\Projects\MyCheckBox\MyCheckBox\obj\Debug\MyCheckBox.pdb
