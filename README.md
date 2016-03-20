@@ -1,6 +1,6 @@
-<h3> Visual Basic Book Tutorials completed by myself. </h3>
+<h3> <b> Visual Basic Book Tutorials completed by myself. </b> </h3>
 
-Working Through:
+<h2> Working Through: </h2>
 
 √ - CH. 3
 √ - CH. 4
