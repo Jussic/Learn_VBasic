@@ -1,0 +1,10 @@
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\bin\Debug\MyFrameWorkMath.exe.config
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\bin\Debug\MyFrameWorkMath.exe
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\bin\Debug\MyFrameWorkMath.pdb
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\bin\Debug\MyFrameWorkMath.xml
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\obj\Debug\MyFrameWorkMath.Form1.resources
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\obj\Debug\MyFrameWorkMath.Resources.resources
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\obj\Debug\MyFrameWorkMath.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\obj\Debug\MyFrameWorkMath.exe
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\obj\Debug\MyFrameWorkMath.xml
+P:\VBasic Project\MyFrameWorkMath\MyFrameWorkMath\obj\Debug\MyFrameWorkMath.pdb

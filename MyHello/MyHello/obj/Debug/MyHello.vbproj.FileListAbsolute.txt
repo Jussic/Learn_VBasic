@@ -1,0 +1,10 @@
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\bin\Debug\MyHello.exe.config
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\bin\Debug\MyHello.exe
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\bin\Debug\MyHello.pdb
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\bin\Debug\MyHello.xml
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\obj\Debug\MyHello.Form1.resources
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\obj\Debug\MyHello.Resources.resources
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\obj\Debug\MyHello.vbproj.GenerateResource.Cache
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\obj\Debug\MyHello.exe
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\obj\Debug\MyHello.xml
+c:\users\depauw\documents\visual studio 2013\Projects\MyHello\MyHello\obj\Debug\MyHello.pdb
