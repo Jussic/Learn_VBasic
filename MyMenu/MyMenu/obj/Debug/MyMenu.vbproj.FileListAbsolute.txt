@@ -1,0 +1,10 @@
+P:\VBasic Project\MyMenu\MyMenu\bin\Debug\MyMenu.exe.config
+P:\VBasic Project\MyMenu\MyMenu\bin\Debug\MyMenu.exe
+P:\VBasic Project\MyMenu\MyMenu\bin\Debug\MyMenu.pdb
+P:\VBasic Project\MyMenu\MyMenu\bin\Debug\MyMenu.xml
+P:\VBasic Project\MyMenu\MyMenu\obj\Debug\MyMenu.Form1.resources
+P:\VBasic Project\MyMenu\MyMenu\obj\Debug\MyMenu.Resources.resources
+P:\VBasic Project\MyMenu\MyMenu\obj\Debug\MyMenu.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyMenu\MyMenu\obj\Debug\MyMenu.exe
+P:\VBasic Project\MyMenu\MyMenu\obj\Debug\MyMenu.xml
+P:\VBasic Project\MyMenu\MyMenu\obj\Debug\MyMenu.pdb
