@@ -1,0 +1,10 @@
+P:\VBasic Project\MyUserValidation\MyUserValidation\bin\Debug\MyUserValidation.exe.config
+P:\VBasic Project\MyUserValidation\MyUserValidation\bin\Debug\MyUserValidation.exe
+P:\VBasic Project\MyUserValidation\MyUserValidation\bin\Debug\MyUserValidation.pdb
+P:\VBasic Project\MyUserValidation\MyUserValidation\bin\Debug\MyUserValidation.xml
+P:\VBasic Project\MyUserValidation\MyUserValidation\obj\Debug\MyUserValidation.Form1.resources
+P:\VBasic Project\MyUserValidation\MyUserValidation\obj\Debug\MyUserValidation.Resources.resources
+P:\VBasic Project\MyUserValidation\MyUserValidation\obj\Debug\MyUserValidation.vbproj.GenerateResource.Cache
+P:\VBasic Project\MyUserValidation\MyUserValidation\obj\Debug\MyUserValidation.exe
+P:\VBasic Project\MyUserValidation\MyUserValidation\obj\Debug\MyUserValidation.xml
+P:\VBasic Project\MyUserValidation\MyUserValidation\obj\Debug\MyUserValidation.pdb
